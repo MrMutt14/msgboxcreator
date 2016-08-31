@@ -1,0 +1,8 @@
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\bin\Debug\msgBoxCreator.exe
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\bin\Debug\msgBoxCreator.pdb
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\obj\Debug\msgBoxCreator.csprojResolveAssemblyReference.cache
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\obj\Debug\msgBoxCreator.Form1.resources
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\obj\Debug\msgBoxCreator.Properties.Resources.resources
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\obj\Debug\msgBoxCreator.csproj.GenerateResource.Cache
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\obj\Debug\msgBoxCreator.exe
+C:\Users\m1406_000\Documents\Visual Studio 2015\Projects\msgBoxCreator\msgBoxCreator\obj\Debug\msgBoxCreator.pdb
